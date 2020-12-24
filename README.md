@@ -1,3 +1,6 @@
-# Home
+# Red Brick Ranch
 
-Documentation for home; electrical panel, paint colors, etc.
+This is a collection of information about our home. Things like electrical, paints, etc.
+
+- [Paint](paint.md)
+- [Electrical](electrical.md)
