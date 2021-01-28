@@ -1,8 +1,6 @@
 # Panel
 
-<table>
-<tr><th>Odd</th><th>Even</th></tr>
-<tr><td>
+
 | Circuit | Fixtures | 
 |---------|----------|
 | 1 | AC |
@@ -18,7 +16,6 @@
 | 21 | Basement living room east outlet, basement bath lights and outlets |
 | 23 | Tub |
 
-</td><td>
 
 | Circuit | Fixtures |
 |---------|----------|
@@ -35,5 +32,3 @@
 | 22 | Master bed outlets and lights, basement living room west outlet |
 | 24 | Living room outlets and lights, front porch lights |
 
-</td></tr>
-</table>
