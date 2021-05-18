@@ -28,7 +28,7 @@
 | 14 | Water heater |
 | 16 | Dryer |
 | 18 | Dryer |
-| 20 | - |
+| 20 | Refrigerator |
 | 22 | Master bed outlets and lights, basement living room west outlet |
 | 24 | Living room outlets and lights, front porch lights |
 
