@@ -22,7 +22,7 @@
 | 2 | Stove |
 | 4 | Stove |
 | 6 | Garage |
-| 8 | Laundry room lights |
+| 8 | Laundry room lights, washer/dryer 120, patio outlet |
 | 10 |  Office lights, master closet lights |
 | 12 | Water heater |
 | 14 | Water heater |
