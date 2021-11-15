@@ -3,15 +3,15 @@
 
 | Circuit | Fixtures | 
 |---------|----------|
-| 1 | AC |
-| 3 | AC |
+| 1 | AC & Sump Pump |
+| 3 | AC & Sump Pump |
 | 5 | Basement Living Room Lights |
 | 7 | Air Handler |
 | 9 | Kitchen, upstairs bath, dining room, outside, attic lights, entertainment center|
-| 11 | Kitchen outlets (includes dishwasher and fridge)|
+| 11 | Kitchen outlets (includes dishwasher)|
 | 13 | Spare room outlets and lights, upstairs bath outlet |
 | 15 | Studio outlets and lights |
-| 17 | Sump pump, lights(?), office outlets|
+| 17 | Basement closet lights, office outlets|
 | 19 | Rack, basement living room W outlet, laundry N & W outlets |
 | 21 | Basement living room east outlet, basement bath lights and outlets |
 | 23 | Tub |
