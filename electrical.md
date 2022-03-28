@@ -9,8 +9,9 @@
 | 7 | Air Handler |
 | 9 | Kitchen, upstairs bath, dining room, outside, attic lights, entertainment center|
 | 11 | Kitchen outlets (includes dishwasher)|
-| 13 | Spare room outlets and lights, upstairs bath outlet |
-| 15 | Studio outlets and lights |
+| 13a | Spare room outlets and lights, upstairs bath outlet |
+| 13b | Studio outlets and lights |
+| 15 | Underfloor heat office
 | 17 | Basement closet lights, office outlets|
 | 19 | Rack, basement living room W outlet, laundry N & W outlets |
 | 21 | Basement living room east outlet, basement bath lights and outlets |
