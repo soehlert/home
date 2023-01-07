@@ -15,7 +15,7 @@
 | 17 | Basement closet lights, office outlets | 20 | Standard |
 | 19 | Rack, basement living room W outlet, laundry N & W outlets | 20 | Standard |
 | 21 | Basement living room east outlet, basement bath lights and outlets | 20 | GFCI |
-| 23 | Tub | Standard |
+| 23 | Tub | 20 | Standard |
 
 
 | Circuit | Fixtures | Breaker Size | Breaker Type |
