@@ -9,8 +9,8 @@
 | 7 | Air Handler | 20 | Standard |
 | 9 | Kitchen, upstairs bath, dining room, outside, attic lights, entertainment center| 20 | GFCI |
 | 11 | Kitchen outlets (includes dishwasher)| 20 | Standard |
-| 13a | Spare room outlets and lights, upstairs bath outlet | 20 | Standard |
-| 13b | Studio outlets and lights | 20 | Standard |
+| 13a | Spare room outlets and lights, upstairs bath outlet | 20 | Tandem |
+| 13b | Studio outlets and lights | 20 | Tandem |
 | 15 | Underfloor heat office | 20 | Standard |
 | 17 | Basement closet lights, office outlets | 20 | Standard |
 | 19 | Rack, basement living room W outlet, laundry N & W outlets | 20 | Standard |
