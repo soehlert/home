@@ -10,3 +10,4 @@
 | Basement Bathroom | 384th, 144, 136, 0, 32 | Behr Marquee Dolphin Gray | Interior Satin 7454 | 1/2022 |
 | Hallway | 384th, 144, 136, 0, 32 | Behr Marquee Dolphin Gray | Interior Satin 7454 | 1/2022 |
 | Front Door | 384th, 72, 206, 13, 292 | Behr Premium Urethane Alkyd Enamel | Semi-Gloss 3930 | 6/2022 |
+| ESnet Office | 101-2Y42, 102-2Y6 | Valspar Signature Pulitzer Blue | Eggshell Base B | 9/2018 |
