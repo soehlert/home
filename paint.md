@@ -11,5 +11,8 @@
 | Basement Bathroom | 384th, 144, 136, 0, 32 | Behr Marquee Dolphin Gray | Interior Satin 7454 | 1/2022 |
 | Hallway | 384th, 144, 136, 0, 32 | Behr Marquee Dolphin Gray | Interior Satin 7454 | 1/2022 |
 | Front Door Outside | 384th, 72, 206, 13, 292 | Behr Premium Urethane Alkyd Enamel | Semi-Gloss 3930 | 6/2022 |
+| Front Door Inside | 384th, 6, 18 | Behr Dynasty Polar Bear | Eggshell 2650 | 6/2022 |
+| Entryway Wall | 384th, 6, 18 | Behr Dynasty Polar Bear | Eggshell 2650 | 6/2022 |
+| Baby Gate | 384th, 6, 18 | Behr Dynasty Polar Bear | Eggshell 2650 | 6/2022 |
 | Nursery Main Color | 384th, 354, 136, 130 | Behr Dynasty Armadillo | Eggshell 2650 | 4/2023 |
 | Nursery Secondary Color | 384th, 108, 356, 0, 78 | Behr Dynasty Green Balsam | Eggshell 2654 | 4/2023 |
