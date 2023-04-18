@@ -5,7 +5,8 @@
 |---------|----------|--------------|--------------|
 | 1 | AC & Sump Pump | 30 | Standard 2 pole |
 | 3 | AC & Sump Pump | 30 | Standard 2 pole |
-| 5 | Basement Living Room Lights | 20 | Standard |
+| 5a | Upstairs NW Bedroom | 20 | Tandem |
+| 5b | Basement Living Room Lights | 20 | Tandem |
 | 7 | Air Handler | 20 | Standard |
 | 9 | Kitchen, upstairs bath, dining room, outside, attic lights, entertainment center| 20 | GFCI |
 | 11 | Kitchen outlets (includes dishwasher)| 20 | Standard |
