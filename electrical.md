@@ -46,3 +46,8 @@
 | 3 | 3 x 8 |
 | 4 | 3 x 5 |
 | 5 | 1.5 x 5 |
+
+
+------------------------------------
+## Kitchen Schedule
+![Kitchen 2D floor plan and electrical schedule](/assets/kitchen_electrical.png)
