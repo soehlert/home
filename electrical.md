@@ -50,4 +50,4 @@
 
 ------------------------------------
 ## Kitchen Schedule
-![Kitchen 2D floor plan and electrical schedule](/assets/kitchen_electrical.png)
+![Kitchen 2D floor plan and electrical schedule](/docs/assets/kitchen_electrical.png)
